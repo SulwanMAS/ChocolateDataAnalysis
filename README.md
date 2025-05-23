@@ -21,6 +21,8 @@ We will be answering the first question and that is :
 - Top Volume Seller: 50% Dark Bites (highest units sold).
 - Recommendation: Launch a premium version of Smooth Sliky Salty (e.g., flavor enhanced or artisan ingredients) to increase average order value.
 
+![](images/PythonAnalysis.png)
+
 2. Geographic Opportunity / Region
 - Australia drove 18.4% of revenue ($1.14M) the highest among all markets.
 - Recommendation: Create localized bundles pairing best sellers with Australian made ingredients to boost regional sales.
