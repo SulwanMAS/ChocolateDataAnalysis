@@ -25,13 +25,19 @@ We will be answering the first question and that is :
 - Australia drove 18.4% of revenue ($1.14M) the highest among all markets.
 - Recommendation: Create localized bundles pairing best sellers with Australian made ingredients to boost regional sales.
 
+![](images/country_performance.png)
+
 3. Revenue Trends & Marketing Allocation / Season
 - Generated $6.18M annually, with Q1 (Jan-Mar) contributing 38% of total revenue.
 - Recommendation: Allocate 40% of next year’s marketing budget to Q1 to capitalize on peak demand
 
+![](images/monthly_trend.png)
+
+![](images/quarterly_breakdown.png)
+
 Strategic Next Steps
 
-- Run early-bird discounts in Q1 to incentivize purchases during peak season.
-- Develop an Australia-focused loyalty program to enhance customer retention and perceived value.
+- Run early bird discounts in Q1 to incentivize purchases during peak season.
+- Develop an Australia-focused loyalty program to stregthen regional sales.
 
 
